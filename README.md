@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PassionateLooker
+- 👋 Hi, I’m Dayasagar Salian
 - 👀 I’m interested in Python and web development
 - 🌱 I’m currently learning Python, web development and new technologies
 - 💞️ I’m looking to collaborate on new generateion web developments
